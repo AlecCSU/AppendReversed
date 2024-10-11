@@ -1,0 +1,57 @@
+Info: Nothing to build for AppendReversed
+10:38:35 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\AppendReversed.o" "..\\src\\AppendReversed.cpp" 
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:38:39 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:38:42 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:38:55 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:39:09 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:39:22 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:39:25 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:39:28 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\AppendReversed.o" "..\\src\\AppendReversed.cpp" 
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+10:39:37 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\AppendReversed.o" "..\\src\\AppendReversed.cpp" 
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+Info: Nothing to build for AppendReversed
+11:00:59 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\AppendReversed.o" "..\\src\\AppendReversed.cpp" 
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+11:13:00 **** Incremental Build of configuration Debug for project AppendReversed ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\AppendReversed.o" "..\\src\\AppendReversed.cpp" 
+g++ -o AppendReversed.exe "src\\AppendReversed.o" 
+Info: Nothing to build for AppendReversed
